@@ -28,10 +28,10 @@ Model Architecture: Multi-layer Artificial Neural Network (ANN)
 
 The final model was evaluated using standard regression metrics, showing high reliability for real-world deployment in smart farming hubs:
 
-MSE: 0.0392 
+MSE: 0.0366
 
-RMSE: 0.1979 
+RMSE: 0.1914
 
-MAE: 0.1796 
+MAE: 0.1655
 
-$R^2$: 0.9981 
+$R^2$: 0.9982
