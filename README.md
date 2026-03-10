@@ -10,7 +10,7 @@ Sustainable Focus: Directly addresses UN Sustainable Development Goals (SDG 7) b
 Data-Driven Insights: Identifies critical weather and environmental variables that influence solar energy production.
 
 🛠️ Technology Stack
-Language:Python 
+Language:Python /n
 Environment: Jupyter Notebook 
 Core Libraries: TensorFlow, Keras, Pandas, Matplotlib 
 Model Architecture: Multi-layer Artificial Neural Network (ANN) 
