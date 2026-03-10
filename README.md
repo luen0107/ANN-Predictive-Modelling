@@ -16,7 +16,7 @@ Data-Driven Insights: Identifies critical weather and environmental variables th
 
 🛠️ Technology Stack
 
-Language:Python 
+Language: Python 
 
 Environment: Jupyter Notebook 
 
