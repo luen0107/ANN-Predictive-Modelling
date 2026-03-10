@@ -1,7 +1,23 @@
-# ANN-Predictive-Modelling
-This is a project about predictive modelling in improving the energy use efficiency of growing crops in smart agro farm using Artificial Neural Network (ANN).
-The Economic Paradox and Land Constraints
-Despite its role as a cornerstone of the Malaysian economy, the agricultural sector faces a widening gap between production value and national demand. While total production value grew to over RM107.3 billion by 2020, its overall contribution to the GDP has trended downward, slipping to 7.17%. This decline is mirrored by a growing dependence on foreign markets, with agro-food imports surging to RM57.7 billion to compensate for a growth rate that cannot keep pace with domestic consumption. This economic vulnerability is further tightened by a dwindling supply of arable land. In Malaysia, agricultural land decreased by roughly 30,000 hectares between 2017 and 2020, with the vast majority—over 80%—dominated by industrial commodities like oil palm and cocoa. This leaves less than 17% of available land for agro-food production, highlighting a critical imbalance in land utilization amidst a global backdrop of reforestation, soil erosion, and desertification.
+# Smart Agro Energy: Predictive Modelling using ANN 
 
-Climate Vulnerability and the Need for Sustainable Innovation
-The stability of Malaysia’s food system is increasingly threatened by the compounding effects of climate change and non-renewable resource depletion. Frequent natural disasters, particularly monsoonal flooding, have inflicted heavy economic tolls; in 2022 alone, floods caused RM622.4 million in total losses, with the agricultural sector bearing RM154.5 million of that burden. Beyond immediate disasters, shifting rainfall patterns and rising global temperatures create long-term uncertainty for crop yields. These environmental stressors are exacerbated by a heavy reliance on fossil fuels and intensive farming practices that lead to soil degradation and pollution. To safeguard future output and mitigate the impact of unpredictable climate phenomena, there is an urgent need to transition toward smart agriculture and sustainable resource management that prioritizes ecological health over the overexploitation of limited resources.
+🌿Overview
+This project leverages Artificial Neural Network (ANN) modeling to enhance energy use efficiency in smart agricultural systems. By accurately predicting solar energy generation, this study provides a data-driven foundation for optimizing resource allocation and promoting sustainable farming practices in response to global food security and climate challenges.
+
+🚀 Key Features
+Predictive Analytics: Implements a robust ANN model to forecast solar power output based on environmental factors.
+High Precision: Achieved an $r^2$ score of 0.9981, demonstrating near-perfect alignment between predicted and actual energy values.
+Sustainable Focus: Directly addresses UN Sustainable Development Goals (SDG 7) by promoting clean energy and efficiency in the vital agriculture sector.
+Data-Driven Insights: Identifies critical weather and environmental variables that influence solar energy production.
+
+🛠️ Technology Stack
+Language:Python 
+Environment: Jupyter Notebook 
+Core Libraries: TensorFlow, Keras, Pandas, Matplotlib 
+Model Architecture: Multi-layer Artificial Neural Network (ANN) 
+
+📊 Performance Summary
+The final model was evaluated using standard regression metrics, showing high reliability for real-world deployment in smart farming hubs:
+MSE: 0.0392 
+RMSE: 0.1979 
+MAE: 0.1796 
+$R^2$: 0.9981 
