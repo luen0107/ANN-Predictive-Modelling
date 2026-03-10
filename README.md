@@ -1,6 +1,7 @@
 # Smart Agro Energy: Predictive Modelling using ANN 
 
 🌿Overview
+
 This project leverages Artificial Neural Network (ANN) modeling to enhance energy use efficiency in smart agricultural systems. By accurately predicting solar energy generation, this study provides a data-driven foundation for optimizing resource allocation and promoting sustainable farming practices in response to global food security and climate challenges.
 
 🚀 Key Features
